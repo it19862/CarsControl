@@ -1,0 +1,12 @@
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.csprojResolveAssemblyReference.cache
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl_MarkupCompile.cache
+C:\Users\nabil\source\repos\CarsControl\CarsControl\bin\Debug\CarsControl.dll
+C:\Users\nabil\source\repos\CarsControl\CarsControl\bin\Debug\CarsControl.pdb
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\Cards.baml
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\Cards.g.cs
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.g.resources
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.Properties.Resources.resources
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.csproj.GenerateResource.cache
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.csproj.CoreCompileInputs.cache
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.dll
+C:\Users\nabil\source\repos\CarsControl\CarsControl\obj\Debug\CarsControl.pdb
